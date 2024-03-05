@@ -34,7 +34,7 @@ font-family: "Raleway", sans-serif;
 }
 
 .header-address-list {
-
+ color: #2e2f42 ;
 }
 
 .header-nav-link:hover,
@@ -54,7 +54,7 @@ font-style: normal;
 }
 
 .header-address-item {
-
+color: #2e2f42;
 }
 
 .header-address-link {
@@ -97,6 +97,7 @@ font-family: "Roboto", sans-serif;
     border-radius: 4px;
     width: 169px;
     height: 56px;
+    cursor: pointer
 }
 .hero-button:hover,
 .hero-button:focus {
